@@ -1,0 +1,1827 @@
+[
+  {
+    "Data": 1,
+    "Escritura": "Gn 1, Sl 1, Mt 1.1-17",
+    "Catecismo": "Intro"
+  },
+  {
+    "Data": 2,
+    "Escritura": "Gn 2, Sl 2, Mt 1.18-25",
+    "Catecismo": "1-10"
+  },
+  {
+    "Data": 3,
+    "Escritura": "Gn 3, Sl 3, Mt 2",
+    "Catecismo": "11-17"
+  },
+  {
+    "Data": 4,
+    "Escritura": "Gn 4, Sl 4, Mt 3",
+    "Catecismo": "18-25"
+  },
+  {
+    "Data": 5,
+    "Escritura": "Gn 5, Sl 5, Mt 4",
+    "Catecismo": "26-30"
+  },
+  {
+    "Data": 6,
+    "Escritura": "Gn 6.9-7.24, Sl 6, Mt 5",
+    "Catecismo": "31-38"
+  },
+  {
+    "Data": 7,
+    "Escritura": "Gn 8-9, Sl 7, Mt 5",
+    "Catecismo": "39-49"
+  },
+  {
+    "Data": 8,
+    "Escritura": "Gn 10-11, Sl 8, Mt 6",
+    "Catecismo": "50-53"
+  },
+  {
+    "Data": 9,
+    "Escritura": "Gn 12-13, Sl 9, Mt 6",
+    "Catecismo": "54-64"
+  },
+  {
+    "Data": 10,
+    "Escritura": "Gn 14-15, Sl 10, Mt 7",
+    "Catecismo": "65-73"
+  },
+  {
+    "Data": 11,
+    "Escritura": "Gn 16-17, Sl 11, Mt 7.15-29",
+    "Catecismo": "74-79"
+  },
+  {
+    "Data": 12,
+    "Escritura": "Gn 18, Sl 12, Mt 8.1-17",
+    "Catecismo": "80-90"
+  },
+  {
+    "Data": 13,
+    "Escritura": "Gn 19, Sl 13, Mt 8.18-34",
+    "Catecismo": "91-100"
+  },
+  {
+    "Data": 14,
+    "Escritura": "Gn 20, Sl 14, Mt 9.1-17",
+    "Catecismo": "101-108"
+  },
+  {
+    "Data": 15,
+    "Escritura": "Gn 21, Sl 15, Mt 9.18-38",
+    "Catecismo": "109-119"
+  },
+  {
+    "Data": 16,
+    "Escritura": "Gn 22-23, Sl 16, Mt 10.1-23",
+    "Catecismo": "120-130"
+  },
+  {
+    "Data": 17,
+    "Escritura": "Gn 24, Sl 17, Mt 10.24-42",
+    "Catecismo": "131-141"
+  },
+  {
+    "Data": 18,
+    "Escritura": "Gn 25-26, Sl 18.1-30, Mt 11.1-15",
+    "Catecismo": "142-149"
+  },
+  {
+    "Data": 19,
+    "Escritura": "Gn 27, Sl 18.31-51, Mt 11.16-30",
+    "Catecismo": "150-159"
+  },
+  {
+    "Data": 20,
+    "Escritura": "Gn 28-29, Sl 19, Mt 12.1-21",
+    "Catecismo": "160-165"
+  },
+  {
+    "Data": 21,
+    "Escritura": "Gn 30, Sl 20, Mt 12.22-37",
+    "Catecismo": "166-171"
+  },
+  {
+    "Data": 22,
+    "Escritura": "Gn 31, Sl 21, Mt 12.38-50",
+    "Catecismo": "172-184"
+  },
+  {
+    "Data": 23,
+    "Escritura": "Gn 32-33, Sl 22, Mt 13.1-23",
+    "Catecismo": "185-197"
+  },
+  {
+    "Data": 24,
+    "Escritura": "Gn 34-35, Sl 23, Mt 13.24-43",
+    "Catecismo": "198-202"
+  },
+  {
+    "Data": 25,
+    "Escritura": "Gn 36-37, Sl 24, Mt 13.44-58",
+    "Catecismo": "203-209"
+  },
+  {
+    "Data": 26,
+    "Escritura": "Gn 38-39, Sl 25, Mt 14.1-21",
+    "Catecismo": "210-213"
+  },
+  {
+    "Data": 27,
+    "Escritura": "Gn 40-41, Sl 26, Mt 14.22-36",
+    "Catecismo": "214-221"
+  },
+  {
+    "Data": 28,
+    "Escritura": "Gn 42-43, Sl 27, Mt 15.1-20",
+    "Catecismo": "222-231"
+  },
+  {
+    "Data": 29,
+    "Escritura": "Gn 44-45, Sl 28, Mt 15.21-39",
+    "Catecismo": "232-237"
+  },
+  {
+    "Data": 30,
+    "Escritura": "Gn 46-47, Sl 29, Mt 16",
+    "Catecismo": "238-248"
+  },
+  {
+    "Data": 31,
+    "Escritura": "Gn 48-49.27, Sl 30, Mt 17",
+    "Catecismo": "249-256"
+  },
+  {
+    "Data": 32,
+    "Escritura": "Gn 49.28-50.26, Sl 31, Mt 18.1-20",
+    "Catecismo": "257-267"
+  },
+  {
+    "Data": 33,
+    "Escritura": "Ex 1-2, Sl 32, Mt 18.21-35",
+    "Catecismo": "268-274"
+  },
+  {
+    "Data": 34,
+    "Escritura": "Ex 3-4, Sl 33, Mt 19.1-15",
+    "Catecismo": "275-281"
+  },
+  {
+    "Data": 35,
+    "Escritura": "Ex 5-6, Sl 34, Mt 19.16-30",
+    "Catecismo": "282-289"
+  },
+  {
+    "Data": 36,
+    "Escritura": "Ex 7-8, Sl 35, Mt 20.1-16",
+    "Catecismo": "290-294"
+  },
+  {
+    "Data": 37,
+    "Escritura": "Ex 9, Sl 36, Mt 20.17-34",
+    "Catecismo": "295-301"
+  },
+  {
+    "Data": 38,
+    "Escritura": "Ex 10-11, Sl 37, Mt 21.1-22",
+    "Catecismo": "302-308"
+  },
+  {
+    "Data": 39,
+    "Escritura": "Ex 12, Sl 38, Mt 21.23-46",
+    "Catecismo": "309-314"
+  },
+  {
+    "Data": 40,
+    "Escritura": "Ex 13-14, Sl 39, Mt 22.1-22",
+    "Catecismo": "315-324"
+  },
+  {
+    "Data": 41,
+    "Escritura": "Ex 15, Sl 40, Mt 22.23-46",
+    "Catecismo": "325-336"
+  },
+  {
+    "Data": 42,
+    "Escritura": "Ex 16-17, Sl 41, Mt 23.1-22",
+    "Catecismo": "337-349"
+  },
+  {
+    "Data": 43,
+    "Escritura": "Ex 18-19, Sl 42-43, Mt 23.23-39",
+    "Catecismo": "350-354"
+  },
+  {
+    "Data": 44,
+    "Escritura": "Ex 20-21, Sl 44, Mt 24.1-22",
+    "Catecismo": "355-361"
+  },
+  {
+    "Data": 45,
+    "Escritura": "Ex 22-23, Sl 45, Mt 24.23-44",
+    "Catecismo": "362-368"
+  },
+  {
+    "Data": 46,
+    "Escritura": "Ex 24-25, Sl 46, Mt 24.45-25.13",
+    "Catecismo": "369-373"
+  },
+  {
+    "Data": 47,
+    "Escritura": "Ex 26-27, Sl 47-48, Mt 25.14-30",
+    "Catecismo": "374-384"
+  },
+  {
+    "Data": 48,
+    "Escritura": "Ex 28, Sl 49, Mt 25.31-46",
+    "Catecismo": "385-390"
+  },
+  {
+    "Data": 49,
+    "Escritura": "Ex 29-30, Sl 50, Mt 26.1-25",
+    "Catecismo": "391-395"
+  },
+  {
+    "Data": 50,
+    "Escritura": "Ex 31-33, Sl 51, Mt 26.26-46",
+    "Catecismo": "396-403"
+  },
+  {
+    "Data": 51,
+    "Escritura": "Ex 34-35, Sl 52, Mt 26.47-75",
+    "Catecismo": "404-409"
+  },
+  {
+    "Data": 52,
+    "Escritura": "Ex 36-38, Sl 53-54, Mt 27.1-26",
+    "Catecismo": "410-421"
+  },
+  {
+    "Data": 53,
+    "Escritura": "Ex 39-40, Sl 55, Mt 27.27-50",
+    "Catecismo": "422-429"
+  },
+  {
+    "Data": 54,
+    "Escritura": "Lv 1-3, Sl 56, Mt 27.51-66",
+    "Catecismo": "430-435"
+  },
+  {
+    "Data": 55,
+    "Escritura": "Lv 4-5, Sl 57, Mt 28",
+    "Catecismo": "436-440"
+  },
+  {
+    "Data": 56,
+    "Escritura": "Lv 6-7, Sl 58, At 1",
+    "Catecismo": "441-445"
+  },
+  {
+    "Data": 57,
+    "Escritura": "Lv 8-9, Sl 59, At 2.1-21",
+    "Catecismo": "446-455"
+  },
+  {
+    "Data": 58,
+    "Escritura": "Lv 10-11, Sl 60, At 2.22-47",
+    "Catecismo": "456-463"
+  },
+  {
+    "Data": 59,
+    "Escritura": "Lv 12-13, Sl 61, At 3",
+    "Catecismo": "464-469"
+  },
+  {
+    "Data": 60,
+    "Escritura": "Lv 14, Sl 62, At 4.1-22",
+    "Catecismo": "470-475"
+  },
+  {
+    "Data": 61,
+    "Escritura": "Lv 15-16,Sl 63 ,At 4.23-37",
+    "Catecismo": "476-483"
+  },
+  {
+    "Data": 62,
+    "Escritura": "Lv 17-18, Sl 64, At 5.1-21a",
+    "Catecismo": "484-489"
+  },
+  {
+    "Data": 63,
+    "Escritura": "Lv 19-20, Sl 65, At 5.21b-42",
+    "Catecismo": "490-495"
+  },
+  {
+    "Data": 64,
+    "Escritura": "Lv 21-22, Sl 66, At 6",
+    "Catecismo": "496-501"
+  },
+  {
+    "Data": 65,
+    "Escritura": "Lv 23-24, Sl 67, At 7.1-30",
+    "Catecismo": "502-511"
+  },
+  {
+    "Data": 66,
+    "Escritura": "Lv 25, Sl 68, At 7.31-60",
+    "Catecismo": "512-518"
+  },
+  {
+    "Data": 67,
+    "Escritura": "Lv 26-27, Sl 69, At 8.1-24",
+    "Catecismo": "519-524"
+  },
+  {
+    "Data": 68,
+    "Escritura": "Nm 1-2, Sl 70, At 8.25-40",
+    "Catecismo": "525-530"
+  },
+  {
+    "Data": 69,
+    "Escritura": "Nm 3-4, Sl 71, At 9.1-22",
+    "Catecismo": "531-534"
+  },
+  {
+    "Data": 70,
+    "Escritura": "Nm 5-6, Sl 72, At 9.23-43",
+    "Catecismo": "535-540"
+  },
+  {
+    "Data": 71,
+    "Escritura": "Nm 7, Sl 73, At 10.1-23",
+    "Catecismo": "541-546"
+  },
+  {
+    "Data": 72,
+    "Escritura": "Nm 8-9, Sl 74, At 10.24-49",
+    "Catecismo": "547-553"
+  },
+  {
+    "Data": 73,
+    "Escritura": "Nm 10-11, Sl 75, At 11",
+    "Catecismo": "554-556"
+  },
+  {
+    "Data": 74,
+    "Escritura": "Nm 12-13, Sl 76, At 12",
+    "Catecismo": "557-560"
+  },
+  {
+    "Data": 75,
+    "Escritura": "Nm 14-15, Sl 77, At 13.1-25",
+    "Catecismo": "561-570"
+  },
+  {
+    "Data": 76,
+    "Escritura": "Nm 16-17, Sl 78.1-35, At 13.26-52",
+    "Catecismo": "571-576"
+  },
+  {
+    "Data": 77,
+    "Escritura": "Nm 18-19, Sl 78.36-72, At 14",
+    "Catecismo": "577-582"
+  },
+  {
+    "Data": 78,
+    "Escritura": "Nm 20-21, Sl 79, At 15.1-21",
+    "Catecismo": "583-586"
+  },
+  {
+    "Data": 79,
+    "Escritura": "Nm 22-23, Sl 80, At 15.22-41",
+    "Catecismo": "587-594"
+  },
+  {
+    "Data": 80,
+    "Escritura": "Nm 24-25, Sl 81, At 16.1-16",
+    "Catecismo": "595-598"
+  },
+  {
+    "Data": 81,
+    "Escritura": "Nm 26-27, Sl 82, At 16.17-40",
+    "Catecismo": "599-605"
+  },
+  {
+    "Data": 82,
+    "Escritura": "Nm 28-29, Sl 83, At 17.1-15",
+    "Catecismo": "606-611"
+  },
+  {
+    "Data": 83,
+    "Escritura": "Nm 30-31, Sl 84, At 17.16-34",
+    "Catecismo": "612-617"
+  },
+  {
+    "Data": 84,
+    "Escritura": "Nm 32-33, Sl 85, At 18",
+    "Catecismo": "618-623"
+  },
+  {
+    "Data": 85,
+    "Escritura": "Nm 34-35, Sl 86, At 19.1-20",
+    "Catecismo": "624-630"
+  },
+  {
+    "Data": 86,
+    "Escritura": "Nm 36, Sl 87, At 19.21-40",
+    "Catecismo": "631-637"
+  },
+  {
+    "Data": 87,
+    "Escritura": "Dt 1-2, Sl 88, At 20.1-16",
+    "Catecismo": "638-640"
+  },
+  {
+    "Data": 88,
+    "Escritura": "Dt 3-4.24, Sl 89.1-18, At 20.17-38",
+    "Catecismo": "641-646"
+  },
+  {
+    "Data": 89,
+    "Escritura": "Dt 4.25-5.33, Sl 89.19-53, At 21.1-16",
+    "Catecismo": "647-650"
+  },
+  {
+    "Data": 90,
+    "Escritura": "Dt 6-7, Sl 90, At 21.17-36",
+    "Catecismo": "651-658"
+  },
+  {
+    "Data": 91,
+    "Escritura": "Dt 8-9, Sl 91, At 21.37-22.16",
+    "Catecismo": "659-667"
+  },
+  {
+    "Data": 92,
+    "Escritura": "Dt 10-11, Sl 92, At 22.17-29",
+    "Catecismo": "668-672"
+  },
+  {
+    "Data": 93,
+    "Escritura": "Dt 12-13, Sl 93-94, At 22.30-23.11",
+    "Catecismo": "673-677"
+  },
+  {
+    "Data": 94,
+    "Escritura": "Dt 14-16, Sl 95, At 23.12-35",
+    "Catecismo": "678-682"
+  },
+  {
+    "Data": 95,
+    "Escritura": "Dt 17-18, Sl 96, At 24",
+    "Catecismo": "683-686"
+  },
+  {
+    "Data": 96,
+    "Escritura": "Dt 19-21, Sl 97, At 25",
+    "Catecismo": "687-690"
+  },
+  {
+    "Data": 97,
+    "Escritura": "Dt 22-23, Sl 98, At 26",
+    "Catecismo": "691-693"
+  },
+  {
+    "Data": 98,
+    "Escritura": "Dt 24-26, Sl 99, At 27.1-26",
+    "Catecismo": "694-701"
+  },
+  {
+    "Data": 99,
+    "Escritura": "Dt 27-28.46, Sl 100, At 27.27-44",
+    "Catecismo": "702-708"
+  },
+  {
+    "Data": 100,
+    "Escritura": "Dt 28.47-29.28, Sl 101, At 28",
+    "Catecismo": "709-716"
+  },
+  {
+    "Data": 101,
+    "Escritura": "Dt 30-31, Sl 102, 1Ts 1",
+    "Catecismo": "717-720"
+  },
+  {
+    "Data": 102,
+    "Escritura": "Dt 32, Sl 103, 1Ts 2",
+    "Catecismo": "721-726"
+  },
+  {
+    "Data": 103,
+    "Escritura": "Dt 33-34, Sl 104, 1Ts 3",
+    "Catecismo": "727-730"
+  },
+  {
+    "Data": 104,
+    "Escritura": "Js 1-3, Sl 105, 1Ts 4",
+    "Catecismo": "731-736"
+  },
+  {
+    "Data": 105,
+    "Escritura": "Js 4-6, Sl 106, 1Ts 5",
+    "Catecismo": "737-747"
+  },
+  {
+    "Data": 106,
+    "Escritura": "Js 7-8, Sl 107, 2Ts 1",
+    "Catecismo": "748-752"
+  },
+  {
+    "Data": 107,
+    "Escritura": "Js 9-10, Sl 108, 2Ts 2",
+    "Catecismo": "753-757"
+  },
+  {
+    "Data": 108,
+    "Escritura": "Js 11-13, Sl 109, 2Ts 3",
+    "Catecismo": "758-762"
+  },
+  {
+    "Data": 109,
+    "Escritura": "Js 14-15, Sl 110, Gl 1",
+    "Catecismo": "763-769"
+  },
+  {
+    "Data": 110,
+    "Escritura": "Js 16-18, Sl 111, Gl 2",
+    "Catecismo": "770-773"
+  },
+  {
+    "Data": 111,
+    "Escritura": "Js 19-20, Sl 112, Gl 3",
+    "Catecismo": "774-780"
+  },
+  {
+    "Data": 112,
+    "Escritura": "Js 21-22, Sl 113, Gl 4",
+    "Catecismo": "781-786"
+  },
+  {
+    "Data": 113,
+    "Escritura": "Js 23-24, Sl 114, Gl 5",
+    "Catecismo": "787-791"
+  },
+  {
+    "Data": 114,
+    "Escritura": "Jz 1-2, Sl 115, Gl 6",
+    "Catecismo": "792-796"
+  },
+  {
+    "Data": 115,
+    "Escritura": "Jz 3-4, Sl 116, Tg 1",
+    "Catecismo": "797-801"
+  },
+  {
+    "Data": 116,
+    "Escritura": "Jz 5-6, Sl 117, Tg 2",
+    "Catecismo": "802-810"
+  },
+  {
+    "Data": 117,
+    "Escritura": "Jz 7-8, Sl 118, Tg 3",
+    "Catecismo": "811-816"
+  },
+  {
+    "Data": 118,
+    "Escritura": "Jz 9, Sl 119.1-16, Tg 4",
+    "Catecismo": "817-819"
+  },
+  {
+    "Data": 119,
+    "Escritura": "Jz 10-11, Sl 119.17-32, Tg 5",
+    "Catecismo": "820-822"
+  },
+  {
+    "Data": 120,
+    "Escritura": "Jz 12-14, Sl 119.33-48, Mc 1.1-28",
+    "Catecismo": "823-829"
+  },
+  {
+    "Data": 121,
+    "Escritura": "Jz 15-16, Sl 119.49-64, Mc 1.29-45",
+    "Catecismo": "830-835"
+  },
+  {
+    "Data": 122,
+    "Escritura": "Jz 17-19, Sl 119.65-80, Mc 2.1-17",
+    "Catecismo": "836-838"
+  },
+  {
+    "Data": 123,
+    "Escritura": "Jz 20-21, Sl 119.81-96, Mc 2.18-3.6",
+    "Catecismo": "839-845"
+  },
+  {
+    "Data": 124,
+    "Escritura": "Rt 1-2, Sl 119.97-112, Mc 3.7-35",
+    "Catecismo": "846-848"
+  },
+  {
+    "Data": 125,
+    "Escritura": "Rt 3-4, Sl 119.113-128, Mc 4.1-20",
+    "Catecismo": "849-856"
+  },
+  {
+    "Data": 126,
+    "Escritura": "1Sm 1-2, Sl 119.129-144, Mc 4.21-41",
+    "Catecismo": "857-862"
+  },
+  {
+    "Data": 127,
+    "Escritura": "1Sm 3-5, Sl 119.145-160, Mc 5.1-20",
+    "Catecismo": "863-870"
+  },
+  {
+    "Data": 128,
+    "Escritura": "1Sm 6-8, Sl 119.161-176, Mc 5.21-43",
+    "Catecismo": "871-873"
+  },
+  {
+    "Data": 129,
+    "Escritura": "1Sm 9-10, Sl 120, Mc 6.1-29",
+    "Catecismo": "874-879"
+  },
+  {
+    "Data": 130,
+    "Escritura": "1Sm 11-13, Sl 121, Mc 6.30-56",
+    "Catecismo": "880-887"
+  },
+  {
+    "Data": 131,
+    "Escritura": "1Sm 14, Sl 122, Mc 7.1-23",
+    "Catecismo": "888-892"
+  },
+  {
+    "Data": 132,
+    "Escritura": "1Sm 15-16, Sl 123, Mc 7.24-37",
+    "Catecismo": "893-896"
+  },
+  {
+    "Data": 133,
+    "Escritura": "1Sm 17, Sl 124, Mc 8.1-21",
+    "Catecismo": "897-900"
+  },
+  {
+    "Data": 134,
+    "Escritura": "1Sm 18-19, Sl 125, Mc 8.22-38",
+    "Catecismo": "901-907"
+  },
+  {
+    "Data": 135,
+    "Escritura": "1Sm 20-21, Sl 126, Mc 9.1-29",
+    "Catecismo": "908-913"
+  },
+  {
+    "Data": 136,
+    "Escritura": "1Sm 22-23, Sl 127, Mc 9.30-50",
+    "Catecismo": "914-919"
+  },
+  {
+    "Data": 137,
+    "Escritura": "1Sm 24-25, Sl 128, Mc 10.1-31",
+    "Catecismo": "920-927"
+  },
+  {
+    "Data": 138,
+    "Escritura": "1Sm 26-28, Sl 129, Mc 10.32-52",
+    "Catecismo": "928-933"
+  },
+  {
+    "Data": 139,
+    "Escritura": "1Sm 29-31, Sl 130, Mc 11.1-14",
+    "Catecismo": "934-945"
+  },
+  {
+    "Data": 140,
+    "Escritura": "2Sm 1-2, Sl 131, Mc 11.15-33",
+    "Catecismo": "946-953"
+  },
+  {
+    "Data": 141,
+    "Escritura": "2Sm 3-4, Sl 132, Mc 12.1-27",
+    "Catecismo": "954-959"
+  },
+  {
+    "Data": 142,
+    "Escritura": "2Sm 5-6, Sl 133-134, Mc 12.28-44",
+    "Catecismo": "960-962"
+  },
+  {
+    "Data": 143,
+    "Escritura": "2Sm 7-9, Sl 135, Mc 13.1-13",
+    "Catecismo": "963-970"
+  },
+  {
+    "Data": 144,
+    "Escritura": "2Sm 10-12, Sl 136, Mc 13.14-37",
+    "Catecismo": "971-975"
+  },
+  {
+    "Data": 145,
+    "Escritura": "2Sm 13-14, Sl 137, Mc 14.1-21",
+    "Catecismo": "976-980"
+  },
+  {
+    "Data": 146,
+    "Escritura": "2Sm 15-16, Sl 138, Mc 14.22-42",
+    "Catecismo": "981-987"
+  },
+  {
+    "Data": 147,
+    "Escritura": "2Sm 17-18, Sl 139, Mc 14.43-72",
+    "Catecismo": "988-991"
+  },
+  {
+    "Data": 148,
+    "Escritura": "2Sm 19, Sl 140, Mc 15.1-20",
+    "Catecismo": "992-996"
+  },
+  {
+    "Data": 149,
+    "Escritura": "2Sm 20-21, Sl 141, Mc 15.21-39",
+    "Catecismo": "997-1004"
+  },
+  {
+    "Data": 150,
+    "Escritura": "2Sm 22-23.7, Sl 142, Mc 15.40-47",
+    "Catecismo": "1005-1009"
+  },
+  {
+    "Data": 151,
+    "Escritura": "2Sm 23.8-24.25, Sl 143, Mc 16",
+    "Catecismo": "1010-1014"
+  },
+  {
+    "Data": 152,
+    "Escritura": "1Rs 1, Sl 144, 1Cor 1",
+    "Catecismo": "1015-1019"
+  },
+  {
+    "Data": 153,
+    "Escritura": "1Rs 2-3, Sl 145, 1Cor 2",
+    "Catecismo": "1020-1022"
+  },
+  {
+    "Data": 154,
+    "Escritura": "1Rs 4-5, Sl 146, 1Cor 3",
+    "Catecismo": "1023-1029"
+  },
+  {
+    "Data": 155,
+    "Escritura": "1Rs 6-7, Sl 147, 1Cor 4",
+    "Catecismo": "1030-1037"
+  },
+  {
+    "Data": 156,
+    "Escritura": "1Rs 8, Sl 148, 1Cor 5",
+    "Catecismo": "1038-1041"
+  },
+  {
+    "Data": 157,
+    "Escritura": "1Rs 9-10, Sl 149, 1Cor 6",
+    "Catecismo": "1042-1050"
+  },
+  {
+    "Data": 158,
+    "Escritura": "1Rs 11-12, Sl 150, 1Cor 7.1-24",
+    "Catecismo": "1051-1060"
+  },
+  {
+    "Data": 159,
+    "Escritura": "1Rs 13-14, Pr 1.1-19, 1Cor 7.25-40",
+    "Catecismo": "1061-1065"
+  },
+  {
+    "Data": 160,
+    "Escritura": "1Rs 15-16, Pr 1.20-33, 1Cor 8",
+    "Catecismo": "1066-1070"
+  },
+  {
+    "Data": 161,
+    "Escritura": "1Rs 17-18, Pr 2, 1Cor 9",
+    "Catecismo": "1071-1075"
+  },
+  {
+    "Data": 162,
+    "Escritura": "1Rs 19-20, Pr 3.1-18, 1Cor 10",
+    "Catecismo": "1076-1083"
+  },
+  {
+    "Data": 163,
+    "Escritura": "1Rs 21-22, Pr 3.19-34, 1Cor 11",
+    "Catecismo": "1084-1090"
+  },
+  {
+    "Data": 164,
+    "Escritura": "2Rs 1-3, Pr 4.1-18, 1Cor 12",
+    "Catecismo": "1091-1098"
+  },
+  {
+    "Data": 165,
+    "Escritura": "2Rs 4-5, Pr 4.20-5.6, 1Cor 13",
+    "Catecismo": "1099-1107"
+  },
+  {
+    "Data": 166,
+    "Escritura": "2Rs 6-7, Pr 5.7-23, 1Cor 14",
+    "Catecismo": "1108-1112"
+  },
+  {
+    "Data": 167,
+    "Escritura": "2Rs 8-9, Pr 6.1-19, 1Cor 15.1-34",
+    "Catecismo": "1113-1121"
+  },
+  {
+    "Data": 168,
+    "Escritura": "2Rs 10-11, Pr 6.20-35, 1Cor 15.35-58",
+    "Catecismo": "1122-1129"
+  },
+  {
+    "Data": 169,
+    "Escritura": "2Rs 12-13, Pr 7, 1Cor 16",
+    "Catecismo": "1130-1134"
+  },
+  {
+    "Data": 170,
+    "Escritura": "2Rs 14-15, Pr 8.1-21, 2Cor 1",
+    "Catecismo": "1135-1139"
+  },
+  {
+    "Data": 171,
+    "Escritura": "2Rs 16-17, Pr 8.22-36, 2Cor 2",
+    "Catecismo": "1140-1144"
+  },
+  {
+    "Data": 172,
+    "Escritura": "2Rs 18-19, Pr 9, 2Cor 3",
+    "Catecismo": "1145-1152"
+  },
+  {
+    "Data": 173,
+    "Escritura": "2Rs 20-22, Pr 10.1-16, 2Cor 4",
+    "Catecismo": "1153-1158"
+  },
+  {
+    "Data": 174,
+    "Escritura": "2Rs 23, Pr 10.17-32, 2Cor 5",
+    "Catecismo": "1159-1162"
+  },
+  {
+    "Data": 175,
+    "Escritura": "2Rs 24-25, Pr 11.1-15, 2Cor 6",
+    "Catecismo": "1163-1167"
+  },
+  {
+    "Data": 176,
+    "Escritura": "1Cr 1-2, Pr 11.16-31, 2Cor 7",
+    "Catecismo": "1168-1173"
+  },
+  {
+    "Data": 177,
+    "Escritura": "1Cr 3-5, Pr 12.1-14, 2Cor 8",
+    "Catecismo": "1174-1178"
+  },
+  {
+    "Data": 178,
+    "Escritura": "1Cr 6-7, Pr 12.15-28, 2Cor 9",
+    "Catecismo": "1179-1186"
+  },
+  {
+    "Data": 179,
+    "Escritura": "1Cr 8-10, Pr 13.1-12, 2Cor 10",
+    "Catecismo": "1187-1199"
+  },
+  {
+    "Data": 180,
+    "Escritura": "1Cr 11-12, Pr 13.13-25, 2Cor 11",
+    "Catecismo": "1200-1209"
+  },
+  {
+    "Data": 181,
+    "Escritura": "1Cr 13-15, Pr 14.1-17, 2Cor 12",
+    "Catecismo": "1210-1216"
+  },
+  {
+    "Data": 182,
+    "Escritura": "1Cr 16-17, Pr 14.18-35, 2Cor 13",
+    "Catecismo": "1217-1225"
+  },
+  {
+    "Data": 183,
+    "Escritura": "1Cr 18-21, Pr 15.1-17, Rm 1",
+    "Catecismo": "1226-1233"
+  },
+  {
+    "Data": 184,
+    "Escritura": "1Cr 22-24, Pr 15.18-33, Rm 2",
+    "Catecismo": "1234-1245"
+  },
+  {
+    "Data": 185,
+    "Escritura": "1Cr 25-27, Pr 16.1-16, Rm 3",
+    "Catecismo": "1246-1256"
+  },
+  {
+    "Data": 186,
+    "Escritura": "1Cr 28-29, Pr 16.17-33, Rm 4",
+    "Catecismo": "1257-1266"
+  },
+  {
+    "Data": 187,
+    "Escritura": "2Cr 1-3, Pr 17.1-15, Rm 5",
+    "Catecismo": "1267-1274"
+  },
+  {
+    "Data": 188,
+    "Escritura": "2Cr 4-6, Pr 17.16-28, Rm 6",
+    "Catecismo": "1275-1284"
+  },
+  {
+    "Data": 189,
+    "Escritura": "2Cr 7-9, Pr 18.1-12, Rm 7",
+    "Catecismo": "1285-1292"
+  },
+  {
+    "Data": 190,
+    "Escritura": "2Cr 10-12, Pr 18.13-24, Rm 8",
+    "Catecismo": "1293-1301"
+  },
+  {
+    "Data": 191,
+    "Escritura": "2Cr 13-15, Pr 19.1-14, Rm 9",
+    "Catecismo": "1302-1311"
+  },
+  {
+    "Data": 192,
+    "Escritura": "2Cr 16-18, Pr 19.15-29, Rm 10",
+    "Catecismo": "1312-1321"
+  },
+  {
+    "Data": 193,
+    "Escritura": "2Cr 19-21, Pr 20.1-15, Rm 11",
+    "Catecismo": "1322-1332"
+  },
+  {
+    "Data": 194,
+    "Escritura": "2Cr 22-24, Pr 20.16-30, Rm 12",
+    "Catecismo": "1333-1340"
+  },
+  {
+    "Data": 195,
+    "Escritura": "2Cr 25-27, Pr 21.1-15, Rm 13",
+    "Catecismo": "1341-1347"
+  },
+  {
+    "Data": 196,
+    "Escritura": "2Cr 28-29, Pr 21.16-31, Rm 14",
+    "Catecismo": "1348-1355"
+  },
+  {
+    "Data": 197,
+    "Escritura": "2Cr 30-31, Pr 22.1-16, Rm 15",
+    "Catecismo": "1356-1361"
+  },
+  {
+    "Data": 198,
+    "Escritura": "2Cr 32-33, Pr 22.17-29, Rm 16",
+    "Catecismo": "1362-1372"
+  },
+  {
+    "Data": 199,
+    "Escritura": "2Cr 34-35, Pr 23.1-21, Ef 1",
+    "Catecismo": "1373-1381"
+  },
+  {
+    "Data": 200,
+    "Escritura": "2Cr 36, Pr 23.22-35, Ef 2",
+    "Catecismo": "1382-1390"
+  },
+  {
+    "Data": 201,
+    "Escritura": "Esd 1 - 3,Pr 24.1 -16 ,Ef 3",
+    "Catecismo": "1391 -1401"
+  },
+  {
+    "Data": 202,
+    "Escritura": "Esd 4 - 6,Pr 24.17 -34,Ef 4",
+    "Catecismo": "1402 -1405"
+  },
+  {
+    "Data": 203,
+    "Escritura": "Esd 7 - 8,Pr 25.1 -14,Ef 5",
+    "Catecismo": "1406-1419"
+  },
+  {
+    "Data": 204,
+    "Escritura": "Esd 9 -10,Pr 25.15 -28,Ef 6",
+    "Catecismo": "1420-1426"
+  },
+  {
+    "Data": 205,
+    "Escritura": "Ne 1 - 3,Pr 26.1 -14,Cl 1",
+    "Catecismo": "1427-1433"
+  },
+  {
+    "Data": 206,
+    "Escritura": "Ne 4 - 6,Pr 26.15 -28,Cl 2",
+    "Catecismo": "1434-1442"
+  },
+  {
+    "Data": 207,
+    "Escritura": "Ne 7 - 8,Pr 27.1 -14,Cl 3",
+    "Catecismo": "1443 -1449"
+  },
+  {
+    "Data": 208,
+    "Escritura": "Ne 9 -10,Pr 27.15 -27,Cl 4",
+    "Catecismo": "1450 -1460"
+  },
+  {
+    "Data": 209,
+    "Escritura": "Ne 11 -13,Pr 28.1 -14,Fl 1",
+    "Catecismo": "1461 -1470"
+  },
+  {
+    "Data": 210,
+    "Escritura": "Tb 1 - 3,Pr 28.15 -28,Fl 2",
+    "Catecismo": "1471 -1479"
+  },
+  {
+    "Data": 211,
+    "Escritura": "Tb 4 - 6,Pr 29.1 -13,Fl 3",
+    "Catecismo": "1480 -1484"
+  },
+  {
+    "Data": 212,
+    "Escritura": "Tb 7 -11,Pr 29.14 -27,Fl 4",
+    "Catecismo": "1485 -1498"
+  },
+  {
+    "Data": 213,
+    "Escritura": "Tb 12 -14,Pr 30.1 -17,Filemon",
+    "Catecismo": "1499 -1505"
+  },
+  {
+    "Data": 214,
+    "Escritura": "Jt 1 - 3,Pr 30.18 -33,Lc 1.1 -25",
+    "Catecismo": "1506 -1513"
+  },
+  {
+    "Data": 215,
+    "Escritura": "Jt 4 - 6,Pr 31.1 -15,Lc 1.26 -56",
+    "Catecismo": "1514 -1519"
+  },
+  {
+    "Data": 216,
+    "Escritura": "Jt 7 - 8,Pr 31.16 -31,Lc 1.57 -80",
+    "Catecismo": "1520 -1525"
+  },
+  {
+    "Data": 217,
+    "Escritura": "Jt 9 -11,Ecl 1,Lc 2.1 -35",
+    "Catecismo": "1526 -1532"
+  },
+  {
+    "Data": 218,
+    "Escritura": "Jt 12 -14,Ecl 2,Lc 2.36 -52",
+    "Catecismo": "1533 -1538"
+  },
+  {
+    "Data": 219,
+    "Escritura": "Jt 15 -16,Ecl 3,Lc 3.1 -14",
+    "Catecismo": "1539 -1547"
+  },
+  {
+    "Data": 220,
+    "Escritura": "Est A,1 - 2,Ecl 4,Lc 3.15 -38",
+    "Catecismo": "1548 -1553"
+  },
+  {
+    "Data": 221,
+    "Escritura": "Est 3 - C,Ecl 5,Lc 4.1 -30",
+    "Catecismo": "1554 -1561"
+  },
+  {
+    "Data": 222,
+    "Escritura": "Est D - 8,Ecl 6,Lc 4.31 -44",
+    "Catecismo": "1562 -1571"
+  },
+  {
+    "Data": 223,
+    "Escritura": "Est 9 -10,Ecl 7,Lc 5. 1 -26",
+    "Catecismo": "1572 -1580"
+  },
+  {
+    "Data": 224,
+    "Escritura": "1Mc 1,Ecl 8,Lc 5.27 -39",
+    "Catecismo": "1581 -1589"
+  },
+  {
+    "Data": 225,
+    "Escritura": "1Mc 2,Ecl 9,Lc 6.1 -31",
+    "Catecismo": "1590 -1600"
+  },
+  {
+    "Data": 226,
+    "Escritura": "1Mc 3,Ecl 10,Lc 6.32 -49",
+    "Catecismo": "1601 -1608"
+  },
+  {
+    "Data": 227,
+    "Escritura": "1Mc 4,Ecl 11,Lc 7.1 -23",
+    "Catecismo": "1609 -1620"
+  },
+  {
+    "Data": 228,
+    "Escritura": "1Mc 5,Ecl 12,Lc 7.24 -50",
+    "Catecismo": "1621 -1632"
+  },
+  {
+    "Data": 229,
+    "Escritura": "1Mc 6,Ct 1,Lc 8.1 -25",
+    "Catecismo": "1633 -1637"
+  },
+  {
+    "Data": 230,
+    "Escritura": "1Mc 7 - 8,Ct 2,Lc 8.26 -56",
+    "Catecismo": "1638 -1645"
+  },
+  {
+    "Data": 231,
+    "Escritura": "1Mc 9,Ct 3,Lc 9.1 -26",
+    "Catecismo": "1646 -1654"
+  },
+  {
+    "Data": 232,
+    "Escritura": "1Mc 10,Ct 4,Lc 9.27 -45",
+    "Catecismo": "1655 -1658"
+  },
+  {
+    "Data": 233,
+    "Escritura": "1Mc 11,Ct 5,Lc 9.46 -62",
+    "Catecismo": "1659 -1666"
+  },
+  {
+    "Data": 234,
+    "Escritura": "1Mc 12,Ct 6,Lc 10.1 -24",
+    "Catecismo": "1667 -1673"
+  },
+  {
+    "Data": 235,
+    "Escritura": "1Mc 13,Ct 7,Lc 10.25 -42",
+    "Catecismo": "1674 -1679"
+  },
+  {
+    "Data": 236,
+    "Escritura": "1Mc 14,Ct 8,Lc 11.1 -26",
+    "Catecismo": "1680 -1690"
+  },
+  {
+    "Data": 237,
+    "Escritura": "1Mc 15 -16,Sb 1,Lc 11.27 -54",
+    "Catecismo": "1691 -1698"
+  },
+  {
+    "Data": 238,
+    "Escritura": "2Mc 1 - 2,Sb 2.1 -11,Lc 12.1 -31",
+    "Catecismo": "1699 -1715"
+  },
+  {
+    "Data": 239,
+    "Escritura": "2Mc 3 - 4,Sb 2.12 -24,Lc 12.32 -59",
+    "Catecismo": "1716 -1719"
+  },
+  {
+    "Data": 240,
+    "Escritura": "2Mc 5 - 6,Sb 3.1 - 9,Lc 13",
+    "Catecismo": "1720 -1729"
+  },
+  {
+    "Data": 241,
+    "Escritura": "2Mc 7 - 8,Sb 3.10 -19,Lc 14",
+    "Catecismo": "1730 -1738"
+  },
+  {
+    "Data": 242,
+    "Escritura": "2Mc 9 -10,Sb 4.1 -15,Lc 15",
+    "Catecismo": "1739 -1748"
+  },
+  {
+    "Data": 243,
+    "Escritura": "2Mc 11 -12,Sb 4.16 -19,Lc 16",
+    "Catecismo": "1749 -1761"
+  },
+  {
+    "Data": 244,
+    "Escritura": "2Mc 13 -14,Sb4.20 -5.16,Lc 17",
+    "Catecismo": "1762 -1775"
+  },
+  {
+    "Data": 245,
+    "Escritura": "2Mc 15,Sb 5.17 -23,Lc 18.1 -17",
+    "Catecismo": "1776 -1782"
+  },
+  {
+    "Data": 246,
+    "Escritura": "Jó 1 - 3,Sb 6.1 -11,Lc 18.18 -43",
+    "Catecismo": "1783 -1802"
+  },
+  {
+    "Data": 247,
+    "Escritura": "Jó 4 - 7,Sb 6.12 -25,Lc 19.1 -27",
+    "Catecismo": "1803 -1811"
+  },
+  {
+    "Data": 248,
+    "Escritura": "Jó 8 -10,Sb 7.1 -14,Lc 19.28 -48",
+    "Catecismo": "1812 -1821"
+  },
+  {
+    "Data": 249,
+    "Escritura": "Jó 11 -14,Sb 7.15 -30,Lc 20.1 -26",
+    "Catecismo": "1822 -1829"
+  },
+  {
+    "Data": 250,
+    "Escritura": "Jó 15 -17,Sb 8.1 -10,Lc 20.27 -47",
+    "Catecismo": "1830 -1845"
+  },
+  {
+    "Data": 251,
+    "Escritura": "Jó 18 -20,Sb 8.11 -21,Lc 21",
+    "Catecismo": "1846 -1851"
+  },
+  {
+    "Data": 252,
+    "Escritura": "Jó 21 -24 ,Sb 9,Lc 22.1 -23",
+    "Catecismo": "1852 -1864"
+  },
+  {
+    "Data": 253,
+    "Escritura": "Jó 25 -28,Sb 10.1 -12,Lc 22.24 -46",
+    "Catecismo": "1865 -1876"
+  },
+  {
+    "Data": 254,
+    "Escritura": "Jó 29 -31,Sb 10.13 -21,Lc 22.47 -71",
+    "Catecismo": "1877 -1885"
+  },
+  {
+    "Data": 255,
+    "Escritura": "Jó 32 -34,Sb 11.1 -14 ,Lc 23.1 -25",
+    "Catecismo": "1886 -1896"
+  },
+  {
+    "Data": 256,
+    "Escritura": "Jó 35 -37,Sb 11.15 -26,Lc 23.26 -56",
+    "Catecismo": "1897 -1904"
+  },
+  {
+    "Data": 257,
+    "Escritura": "Jó 38 -39,Sb 12.1 -11,Lc 24.1 -27",
+    "Catecismo": "1905 -1912"
+  },
+  {
+    "Data": 258,
+    "Escritura": "Jó 40 -42,Sb 12.12 -27,Lc 24.28 -53",
+    "Catecismo": "1913 -1927"
+  },
+  {
+    "Data": 259,
+    "Escritura": "Is 1 - 2,Sb 13.1 - 9,1Tm 1",
+    "Catecismo": "1928 -1933"
+  },
+  {
+    "Data": 260,
+    "Escritura": "Is 3 - 5,Sb 13.10 -19,1Tm 2",
+    "Catecismo": "1934 -1938"
+  },
+  {
+    "Data": 261,
+    "Escritura": "Is 6 - 8,Sb 14.1 -15,1Tm 3",
+    "Catecismo": "1939 -1948"
+  },
+  {
+    "Data": 262,
+    "Escritura": "Is 9 -10,Sb 14.16 -31,1Tm 4",
+    "Catecismo": "1949 -1953"
+  },
+  {
+    "Data": 263,
+    "Escritura": "Is 11 -13 ,Sb 15.1 -17,1Tm 5",
+    "Catecismo": "1954 -1960"
+  },
+  {
+    "Data": 264,
+    "Escritura": "Is 14 -16 ,Sb 15.18 -16.14 ,1Tm 6",
+    "Catecismo": "1961 -1964"
+  },
+  {
+    "Data": 265,
+    "Escritura": "Is 17 -19,Sb 16.15 -29 ,Tito",
+    "Catecismo": "1965 -1974"
+  },
+  {
+    "Data": 266,
+    "Escritura": "Is 20 -22,Sb 17.1 -10,1Pd 1",
+    "Catecismo": "1975 -1986"
+  },
+  {
+    "Data": 267,
+    "Escritura": "Is 23 -24,Sb 17.11 -21,1Pd 2",
+    "Catecismo": "1987 -1995"
+  },
+  {
+    "Data": 268,
+    "Escritura": "Is 25 -27,Sb 18.1 - 9,1Pd 3",
+    "Catecismo": "1996 -2005"
+  },
+  {
+    "Data": 269,
+    "Escritura": "Is 28 -29 ,Sb 18.10 -25 ,1Pd 4",
+    "Catecismo": "2006 -2011"
+  },
+  {
+    "Data": 270,
+    "Escritura": "Is 30 -31,Sb 19.1 -12,1Pd 5",
+    "Catecismo": "2012 -2016"
+  },
+  {
+    "Data": 271,
+    "Escritura": "Is 32 -33 ,Sb 19.13 -22 ,2Pd 1",
+    "Catecismo": "2017 -2029"
+  },
+  {
+    "Data": 272,
+    "Escritura": "Is 34 -36,*Sir Prólogo,2Pd 2",
+    "Catecismo": "2030 -2040"
+  },
+  {
+    "Data": 273,
+    "Escritura": "Is 37 -38 ,Sir 1.1 -15,2Pd 3",
+    "Catecismo": "2041 -2051"
+  },
+  {
+    "Data": 274,
+    "Escritura": "Is 39 -40 ,Sir 1.16 -29 ,Hb 1",
+    "Catecismo": "2052 -2055"
+  },
+  {
+    "Data": 275,
+    "Escritura": "Is 41 -42,Sir 2.1 - 1 1,Hb 2",
+    "Catecismo": "2056 -2063"
+  },
+  {
+    "Data": 276,
+    "Escritura": "Is 43 -44,Sir 2.12 -18 ,Hb 3",
+    "Catecismo": "2064 -2074"
+  },
+  {
+    "Data": 277,
+    "Escritura": "Is 45 -46,Sir 3.1 -16,Hb 4",
+    "Catecismo": "2075 -2082"
+  },
+  {
+    "Data": 278,
+    "Escritura": "Is 47 -48,Sir 3.17 -30,Hb 5",
+    "Catecismo": "2083 -2089"
+  },
+  {
+    "Data": 279,
+    "Escritura": "Is 49 -50,Sir 4.1 -19,Hb 6",
+    "Catecismo": "2090 -2094"
+  },
+  {
+    "Data": 280,
+    "Escritura": "Is 51 -52,Sir 4.20 -31 ,Hb 7",
+    "Catecismo": "2095 -2100"
+  },
+  {
+    "Data": 281,
+    "Escritura": "Is 53 -55,Sir 5,Hb 8",
+    "Catecismo": "2101 -2109"
+  },
+  {
+    "Data": 282,
+    "Escritura": "Is 56 -57 ,Sir 6.1 -22,Hb 9",
+    "Catecismo": "2110 -2117"
+  },
+  {
+    "Data": 283,
+    "Escritura": "Is 58 -59,Sir 6.23 -37 ,Hb 10",
+    "Catecismo": "2118 -2128"
+  },
+  {
+    "Data": 284,
+    "Escritura": "Is 60 -61,Sir 7.1 -17 ,Hb 11",
+    "Catecismo": "2129 -2141"
+  },
+  {
+    "Data": 285,
+    "Escritura": "Is 62 -64,Sir 7.18 -36 ,Hb 12",
+    "Catecismo": "2142 -2149"
+  },
+  {
+    "Data": 286,
+    "Escritura": "Is 65 -66 ,Sir 8.1 - 9,Hb 13",
+    "Catecismo": "2150 -2159"
+  },
+  {
+    "Data": 287,
+    "Escritura": "Jr 1 - 2 ,Sir 8.10 -19,2Tm 1",
+    "Catecismo": "2160 -2167"
+  },
+  {
+    "Data": 288,
+    "Escritura": "Jr 3 - 4, Sir 9, 2Tm 2",
+    "Catecismo": "2168 -2179"
+  },
+  {
+    "Data": 289,
+    "Escritura": "Jr 5 - 6, Sir 10.1 -18, 2Tm 3",
+    "Catecismo": "2180 -2183"
+  },
+  {
+    "Data": 290,
+    "Escritura": "Jr 7 - 8, Sir 10.19 -30, 2Tm 4",
+    "Catecismo": "2184 -2188"
+  },
+  {
+    "Data": 291,
+    "Escritura": "Jr 9 -10, Sir 11.1 -17, Judas",
+    "Catecismo": "2189 -2195"
+  },
+  {
+    "Data": 292,
+    "Escritura": "Jr 11 -12, Sir 11.18 -34, Jo 1.1 -23",
+    "Catecismo": "2196 -2200"
+  },
+  {
+    "Data": 293,
+    "Escritura": "Jr 13 -14, Sir 12, Jo 1.24 -51",
+    "Catecismo": "2201 -2213"
+  },
+  {
+    "Data": 294,
+    "Escritura": "Jr 15 -16, Sir 13.1 -13, Jo 2",
+    "Catecismo": "2214 -2220"
+  },
+  {
+    "Data": 295,
+    "Escritura": "Jr 17 -18, Sir 13.14 -27, Jo 3.1 -21",
+    "Catecismo": "2221 -2231"
+  },
+  {
+    "Data": 296,
+    "Escritura": "Jr 19 -21, Sir 14.1 -14, Jo 3.22 -36",
+    "Catecismo": "2232 -2243"
+  },
+  {
+    "Data": 297,
+    "Escritura": "Jr 22 -23.8, Sir 14.15 -27, Jo 4.1 -26",
+    "Catecismo": "2244 -2257"
+  },
+  {
+    "Data": 298,
+    "Escritura": "Jr 23.9 -24, Sir 15, Jo 4.27 -54",
+    "Catecismo": "2258 -2267"
+  },
+  {
+    "Data": 299,
+    "Escritura": "Jr 25 -26, Sir 16.1 -14, Jo 5.1 -24",
+    "Catecismo": "2268 -2275"
+  },
+  {
+    "Data": 300,
+    "Escritura": "Jr 27 -29, Sir 16.15 -28, Jo 5.25 -47",
+    "Catecismo": "2276 -2283"
+  },
+  {
+    "Data": 301,
+    "Escritura": "Jr 30 -31.22, Sir 17.1 -14, Jo 6.1 -21",
+    "Catecismo": "2284 -2291"
+  },
+  {
+    "Data": 302,
+    "Escritura": "Jr 31.23 -32.44, Sir 17.15 -27, Jo 6.22 -40",
+    "Catecismo": "2292 -2301"
+  },
+  {
+    "Data": 303,
+    "Escritura": "Jr 33 -34, Sir 18.1 -14, Jo 6.41 -71",
+    "Catecismo": "2302 -2317"
+  },
+  {
+    "Data": 304,
+    "Escritura": "Jr 35 -36, Sir 18.15 -33, Jo 7.1 -24",
+    "Catecismo": "2318 -2330"
+  },
+  {
+    "Data": 305,
+    "Escritura": "Jr 37 -39, Sir 19.1 -17, Jo 7.25 -53",
+    "Catecismo": "2331 -2345"
+  },
+  {
+    "Data": 306,
+    "Escritura": "Jr 40 -42, Sir 19.18 -26, Jo 8.1 -30",
+    "Catecismo": "2346 -2359"
+  },
+  {
+    "Data": 307,
+    "Escritura": "Jr 43 -45, Sir 20.1 -17, Jo 8.31 -59",
+    "Catecismo": "2360 -2365"
+  },
+  {
+    "Data": 308,
+    "Escritura": "Jr 46 -47, Sir 20.18 -30, Jo 9.1 -23",
+    "Catecismo": "2366 -2379"
+  },
+  {
+    "Data": 309,
+    "Escritura": "Jr 48, Sir 21.1 -14, Jo 9.24 -41",
+    "Catecismo": "2380 -2386"
+  },
+  {
+    "Data": 310,
+    "Escritura": "Jr 49, Sir 21.15 -28, Jo 10.1 -21",
+    "Catecismo": "2387 -2400"
+  },
+  {
+    "Data": 311,
+    "Escritura": "Jr 50, Sir 22.1 -15, Jo 10.22 -42",
+    "Catecismo": "2401 -2406"
+  },
+  {
+    "Data": 312,
+    "Escritura": "Jr 51, Sir 22.16 -27, Jo 11.1 -27",
+    "Catecismo": "2407 -2418"
+  },
+  {
+    "Data": 313,
+    "Escritura": "Jr 52, Sir 23.1 -15, Jo 11.28 -57",
+    "Catecismo": "2419 -2425"
+  },
+  {
+    "Data": 314,
+    "Escritura": "Lm 1, Sir 23.16 -27, Jo 12.1 -26",
+    "Catecismo": "2426 -2436"
+  },
+  {
+    "Data": 315,
+    "Escritura": "Lm 2, Sir 24.1 -17, Jo 12.27 -50",
+    "Catecismo": "2437 -2442"
+  },
+  {
+    "Data": 316,
+    "Escritura": "Lm 3, Sir 24.18 -31, Jo 13",
+    "Catecismo": "2443 -2449"
+  },
+  {
+    "Data": 317,
+    "Escritura": "Lm 4 - 5, Sir 25.1 -11, Jo 14",
+    "Catecismo": "2450 -2463"
+  },
+  {
+    "Data": 318,
+    "Escritura": "Br 1 - 2, Sir 25.12 -25, Jo 15",
+    "Catecismo": "2464 -2470"
+  },
+  {
+    "Data": 319,
+    "Escritura": "Br 3 - 4, Sir 26, Jo 16",
+    "Catecismo": "2471 -2474"
+  },
+  {
+    "Data": 320,
+    "Escritura": "Br 5 - 6, Sir 27.1 -15, Jo 17",
+    "Catecismo": "2475 -2487"
+  },
+  {
+    "Data": 321,
+    "Escritura": "Ez 1 - 3, Sir 27.16 -30, Jo 18",
+    "Catecismo": "2488 -2499"
+  },
+  {
+    "Data": 322,
+    "Escritura": "Ez 4 - 7, Sir 28.1 -12, Jo 19.1 -22",
+    "Catecismo": "2500 -2503"
+  },
+  {
+    "Data": 323,
+    "Escritura": "Ez 8 -10, Sir 28.13 -26, Jo 19.23 -42",
+    "Catecismo": "2504 -2513"
+  },
+  {
+    "Data": 324,
+    "Escritura": "Ez 11 -13, Sir 29.1 -13, Jo 20",
+    "Catecismo": "2514 -2519"
+  },
+  {
+    "Data": 325,
+    "Escritura": "Ez 14 -16, Sir 29.14 -28, Jo 21",
+    "Catecismo": "2520 -2533"
+  },
+  {
+    "Data": 326,
+    "Escritura": "Ez 17 -18, Sir 30.1 -13, 1Jo 1",
+    "Catecismo": "2534 -2540"
+  },
+  {
+    "Data": 327,
+    "Escritura": "Ez 19 -20, Sir 30.14 -25, 1Jo 2",
+    "Catecismo": "2541 -2547"
+  },
+  {
+    "Data": 328,
+    "Escritura": "Ez 21 -22, Sir 31.1 -15, 1Jo 3",
+    "Catecismo": "2548 -2557"
+  },
+  {
+    "Data": 329,
+    "Escritura": "Ez 23 -24, Sir 31.16 -31, 1Jo 4",
+    "Catecismo": "2558 -2565"
+  },
+  {
+    "Data": 330,
+    "Escritura": "Ez 25 -27.11, Sir 32.1 -13, 1Jo 5",
+    "Catecismo": "2566 -2573"
+  },
+  {
+    "Data": 331,
+    "Escritura": "Ez 27.12 -28.26, Sir 32.14 -24, 2Jo",
+    "Catecismo": "2574 -2580"
+  },
+  {
+    "Data": 332,
+    "Escritura": "Ez 29 -30, Sir 33.1 -15, 3Jo",
+    "Catecismo": "2581 -2589"
+  },
+  {
+    "Data": 333,
+    "Escritura": "Ez 31 -32, Sir 33.16 -33, Ap 1",
+    "Catecismo": "2590 -2597"
+  },
+  {
+    "Data": 334,
+    "Escritura": "Ez 33 -34, Sir 34.1 -12, Ap 2",
+    "Catecismo": "2598 -2606"
+  },
+  {
+    "Data": 335,
+    "Escritura": "Ez 35 -37, Sir 34.13 -26, Ap 3",
+    "Catecismo": "2607 -2616"
+  },
+  {
+    "Data": 336,
+    "Escritura": "Ez 38 -39, Sir 35, Ap 4",
+    "Catecismo": "2617 -2622"
+  },
+  {
+    "Data": 337,
+    "Escritura": "Ez 40 -41, Sir 36.1 -14, Ap 5",
+    "Catecismo": "2623 -2636"
+  },
+  {
+    "Data": 338,
+    "Escritura": "Ez 42 -44, Sir 36.15 -27, Ap 6",
+    "Catecismo": "2637 -2649"
+  },
+  {
+    "Data": 339,
+    "Escritura": "Ez 45 -46, Sir 37.1 -15, Ap 7",
+    "Catecismo": "2650 -2662"
+  },
+  {
+    "Data": 340,
+    "Escritura": "Ez 47 -48, Sir 37.16 -30, Ap 8",
+    "Catecismo": "2663 -2672"
+  },
+  {
+    "Data": 341,
+    "Escritura": "Dn 1 -2, Sir 38.1 -23, Ap 9",
+    "Catecismo": "2673 -2682"
+  },
+  {
+    "Data": 342,
+    "Escritura": "Dn 3, Sir 38.24 -34, Ap 10",
+    "Catecismo": "2683 -2696"
+  },
+  {
+    "Data": 343,
+    "Escritura": "Dn 4 -5, Sir 39.1 -16, Ap 11",
+    "Catecismo": "2697 -2708"
+  },
+  {
+    "Data": 344,
+    "Escritura": "Dn 6 -7, Sir 39.17 -35, Ap 12",
+    "Catecismo": "2709 -2724"
+  },
+  {
+    "Data": 345,
+    "Escritura": "Dn 8 -9, Sir 40.1 -17, Ap 13",
+    "Catecismo": "2725 -2733"
+  },
+  {
+    "Data": 346,
+    "Escritura": "Dn 10 -12, Sir 40.18 -30, Ap 14",
+    "Catecismo": "2734 -2741"
+  },
+  {
+    "Data": 347,
+    "Escritura": "Dn 13 -14, Sir 41, Ap 15",
+    "Catecismo": "2742 -2745"
+  },
+  {
+    "Data": 348,
+    "Escritura": "Os 1 -4, Sir 42.1 -14, Ap 16",
+    "Catecismo": "2746 -2758"
+  },
+  {
+    "Data": 349,
+    "Escritura": "Os 5 -8, Sir 42.15 -25, Ap 17",
+    "Catecismo": "2759 -2764"
+  },
+  {
+    "Data": 350,
+    "Escritura": "Os 9 -11, Sir 43.1 -12, Ap 18",
+    "Catecismo": "2765 -2772"
+  },
+  {
+    "Data": 351,
+    "Escritura": "Os 12 -14, Sir 43.13 -35, Ap 19",
+    "Catecismo": "2773 -2776"
+  },
+  {
+    "Data": 352,
+    "Escritura": "Joel, Sir 44.1 -11, Ap 20",
+    "Catecismo": "2777 -2778"
+  },
+  {
+    "Data": 353,
+    "Escritura": "Amós 1 -4, Sir 44.12 -23, Ap 21",
+    "Catecismo": "2779 -2785"
+  },
+  {
+    "Data": 354,
+    "Escritura": "Amós 5 -9, Sir 45.1 -14, Ap 22",
+    "Catecismo": "2786 -2793"
+  },
+  {
+    "Data": 355,
+    "Escritura": "Abdias, Sir 45.15 -26, Mt 1.18 -2.12",
+    "Catecismo": "2794 -2802"
+  },
+  {
+    "Data": 356,
+    "Escritura": "Jonas, Sir 46, Mt 2.13 -23",
+    "Catecismo": "2803 -2806"
+  },
+  {
+    "Data": 357,
+    "Escritura": "Miqueias, Sir 47.1 -11, Lc 1.1 -25",
+    "Catecismo": "2807 -2815"
+  },
+  {
+    "Data": 358,
+    "Escritura": "Naum, Sir 47.12 -25, Lc 1.26 -56",
+    "Catecismo": "2816 -2821"
+  },
+  {
+    "Data": 359,
+    "Escritura": "Habacuc, Sir 48.1 -11, Lc 1.57 -80",
+    "Catecismo": "2822 -2827"
+  },
+  {
+    "Data": 360,
+    "Escritura": "Sofonias, Sir 48.12 -25, Lc 2.1 -21",
+    "Catecismo": "2828 -2837"
+  },
+  {
+    "Data": 361,
+    "Escritura": "Ageu, Sir 49, Lc 2.22 -52",
+    "Catecismo": "2838 -2841"
+  },
+  {
+    "Data": 362,
+    "Escritura": "Zc 1 -5, Sir 50.1 -13, Jo 1.1 -18",
+    "Catecismo": "2842 -2845"
+  },
+  {
+    "Data": 363,
+    "Escritura": "Zc 6 -10, Sir 50.14 -29, Cl 1.14 -23",
+    "Catecismo": "2846 -2849"
+  },
+  {
+    "Data": 364,
+    "Escritura": "Zc 11 -14, Sir 51.1 -12, Fl 2.5 -11",
+    "Catecismo": "2850 -2856"
+  },
+  {
+    "Data": 365,
+    "Escritura": "Malaquias, Sir 51.13 -30, Jo 3.16 -21",
+    "Catecismo": "2857 -2865"
+  }
+]
