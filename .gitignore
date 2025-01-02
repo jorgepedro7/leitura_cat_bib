@@ -1,0 +1,22 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Ignorar arquivos de compilação do Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignorar o arquivo de banco de dados local do SQLite
+*.db
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar o arquivo de configurações do editor (ex: VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Ignorar arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
