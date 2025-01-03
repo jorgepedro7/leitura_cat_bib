@@ -58,5 +58,4 @@ Abra um pull request no repositório original para revisão.
 Licença
 Este projeto é licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-perl
-Copiar código
+## Esse app, foi compilado, à partir do material "Leia a Bíblia e o Catecismo em um Ano" dos jovensdacruz.com.br @missaojovesdacruz
